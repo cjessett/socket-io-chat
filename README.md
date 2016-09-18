@@ -10,6 +10,8 @@ start the server (port 3001)
 
 chat away
 
-## Todo 
+## Todo
 - update UI
 - deploy for fun?
+
+[Demo](https://cj-socket-chat.herokuapp.com)
