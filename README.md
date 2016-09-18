@@ -1,6 +1,6 @@
 # Socket.IO chat tutorial
 
-- install dependencies
+install dependencies
 `npm install`
 
 - start the server (port 3001)
