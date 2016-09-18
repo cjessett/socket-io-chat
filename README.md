@@ -15,3 +15,5 @@ chat away
 - deploy for fun?
 
 [Demo](https://cj-socket-chat.herokuapp.com)
+
+open another tab to see live messages
