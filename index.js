@@ -12,7 +12,7 @@ io.on('connection', function(socket) {
   });
 });
 
-http.listen(process.env.PORT, function() {
+http.listen(3001, function() {
   console.log('listening on http://localhost:3001');
 });
 
