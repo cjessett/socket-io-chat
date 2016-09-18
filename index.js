@@ -13,7 +13,7 @@ io.on('connection', function(socket) {
 });
 
 http.listen(process.env.PORT, function() {
-  console.log('listening on http://localhost:3001');
+  console.log('listening on ' + process.env.PORT);
 });
 
 
